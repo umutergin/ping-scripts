@@ -1,2 +1,2 @@
 # Ping Scripts
-Simple Ping tools that I wrote for learning purposes.
+Simple Ping scripts that I wrote for learning purposes.
