@@ -1,2 +1,2 @@
-# scapy-ping
-Simple Ping tool using Scapy
+# Ping Scripts
+Simple Ping tools that I wrote for learning purposes.
